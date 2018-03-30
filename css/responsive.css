@@ -28,4 +28,11 @@
   #logo h2 {
     font-size: 2.2em;
   }
+
+  #social {
+    position: absolute;
+    top: 72px;
+    right: 4%;
+    width: auto;
+  }
 }
