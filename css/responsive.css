@@ -35,6 +35,10 @@
     right: 4%;
     width: auto;
   }
+
+  .col-3 p {
+    column-count:
+  }
 }
 
 @media only screen and (max-width: 800px) {
